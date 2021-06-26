@@ -28,4 +28,5 @@
 > > ## Binarization
 > > ![image](https://user-images.githubusercontent.com/82637549/123510798-6878b600-d6b8-11eb-9a96-04274d28277a.png)
 > > ## Stress Transform
+> > ![image](https://user-images.githubusercontent.com/82637549/123510898-0b313480-d6b9-11eb-927c-cf7c0fa34feb.png)
 > > ![image](https://user-images.githubusercontent.com/82637549/123510837-a4138000-d6b8-11eb-802e-f7f4a3d1896d.png)
