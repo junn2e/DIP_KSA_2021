@@ -11,4 +11,5 @@
 > > a + 100 , a - 100 , a * 2 , a / 2 (a = 화소값)
 > > ## AND, OR, XOR Operate
 > > ![image](https://user-images.githubusercontent.com/82637549/123510440-8218fe00-d6b6-11eb-86e8-584117bc1e43.png)
+> > 
 > > a & 128, a | 128, a ⊕ 128
