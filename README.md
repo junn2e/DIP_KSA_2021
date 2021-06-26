@@ -8,8 +8,15 @@
 > > ![image](https://user-images.githubusercontent.com/82637549/123510075-69a7e400-d6b4-11eb-86c2-56f4416201f9.png)
 > > ## Constant 연산 (Clapping 기법)
 > > ![image](https://user-images.githubusercontent.com/82637549/123510330-ce177300-d6b5-11eb-95cc-d0ce94a3697b.png)
+> > 
 > > a + 100 , a - 100 , a * 2 , a / 2 (a = 화소값)
 > > ## AND, OR, XOR Operate
 > > ![image](https://user-images.githubusercontent.com/82637549/123510440-8218fe00-d6b6-11eb-86e8-584117bc1e43.png)
 > > 
-> > a & 128, a | 128, a ⊕ 128
+> > a & 128, a | 128, a ⊕ 128 (a = 화소값)
+> > ## Negative Trasnform
+> > Output(q) = 255 - Input(p)![image](https://user-images.githubusercontent.com/82637549/123510543-31ee6b80-d6b7-11eb-8b3d-e8be57396f85.png)
+
+> > ![image](https://user-images.githubusercontent.com/82637549/123510518-0bc8cb80-d6b7-11eb-85b0-f83af1e73efb.png)
+> > ## Gamma Correction
+> > 
