@@ -25,4 +25,7 @@
 > > ![image](https://user-images.githubusercontent.com/82637549/123510638-a75a3c00-d6b7-11eb-9fef-b9450f40d71d.png)
 > > 
 > > γ = 0.85
-
+> > ## Binarization
+> > ![image](https://user-images.githubusercontent.com/82637549/123510798-6878b600-d6b8-11eb-9a96-04274d28277a.png)
+> > ## Stress Transform
+> > ![image](https://user-images.githubusercontent.com/82637549/123510837-a4138000-d6b8-11eb-802e-f7f4a3d1896d.png)
