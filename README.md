@@ -9,3 +9,6 @@
 > > ## Constant 연산 (Clapping 기법)
 > > ![image](https://user-images.githubusercontent.com/82637549/123510330-ce177300-d6b5-11eb-95cc-d0ce94a3697b.png)
 > > a + 100 , a - 100 , a * 2 , a / 2 (a = 화소값)
+> > ## AND, OR, XOR Operate
+> > ![image](https://user-images.githubusercontent.com/82637549/123510440-8218fe00-d6b6-11eb-86e8-584117bc1e43.png)
+> > a & 128, a | 128, a ⊕ 128
