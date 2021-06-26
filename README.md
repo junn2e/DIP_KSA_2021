@@ -15,10 +15,10 @@
 > > 
 > > a & 128, a | 128, a ⊕ 128 (a = 화소값)
 > > ## Negative Trasnform
-> > Output(q) = 255 - Input(p)
-
+> > > Output(q) = 255 - Input(p)
 > > ![image](https://user-images.githubusercontent.com/82637549/123510518-0bc8cb80-d6b7-11eb-85b0-f83af1e73efb.png)
 > > ## Gamma Correction
-> > Output(q) = [Input(p)](1/   )
-![image](https://user-images.githubusercontent.com/82637549/123510584-58aca200-d6b7-11eb-913f-46ffffe1f1f4.png)
+> > > Output(q) = [Input(p)](1/γ)
+> > ![image](https://user-images.githubusercontent.com/82637549/123510638-a75a3c00-d6b7-11eb-9fef-b9450f40d71d.png)
+> > γ = 0.85
 
