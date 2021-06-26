@@ -20,6 +20,7 @@
 > > ![image](https://user-images.githubusercontent.com/82637549/123510518-0bc8cb80-d6b7-11eb-85b0-f83af1e73efb.png)
 > > ## Gamma Correction
 > > > Output(q) = Input(p)(1/γ)
+> > > 감마 값이 1보다 작으면 영상이 밝아지고 1보다 크면 영상이 어두워짐
 > > > 
 > > ![image](https://user-images.githubusercontent.com/82637549/123510638-a75a3c00-d6b7-11eb-9fef-b9450f40d71d.png)
 > > 
