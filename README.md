@@ -19,4 +19,6 @@
 
 > > ![image](https://user-images.githubusercontent.com/82637549/123510518-0bc8cb80-d6b7-11eb-85b0-f83af1e73efb.png)
 > > ## Gamma Correction
-> > 
+> > Output(q) = [Input(p)](1/   )
+![image](https://user-images.githubusercontent.com/82637549/123510584-58aca200-d6b7-11eb-913f-46ffffe1f1f4.png)
+
