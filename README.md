@@ -31,3 +31,10 @@
 > > ![image](https://user-images.githubusercontent.com/82637549/123510837-a4138000-d6b8-11eb-802e-f7f4a3d1896d.png)
 > > 
 > > ![image](https://user-images.githubusercontent.com/82637549/123510898-0b313480-d6b9-11eb-927c-cf7c0fa34feb.png)
+> > ## Histogram Stretching
+> > > 기본 명암 대비
+> > > new pixel = (old pixel - low) / (high - low) * 255
+> > > ![image](https://user-images.githubusercontent.com/82637549/123792883-159f3880-d91c-11eb-8b52-e89f0972c74b.png)
+
+> > ![image](https://user-images.githubusercontent.com/82637549/123792357-7c702200-d91b-11eb-9903-2b27c9d4d9de.png)
+> > 
