@@ -34,7 +34,6 @@
 > > ## Histogram Stretching
 > > > 기본 명암 대비
 > > > new pixel = (old pixel - low) / (high - low) * 255
-> > > ![image](https://user-images.githubusercontent.com/82637549/123792883-159f3880-d91c-11eb-8b52-e89f0972c74b.png)
-
 > > ![image](https://user-images.githubusercontent.com/82637549/123792357-7c702200-d91b-11eb-9903-2b27c9d4d9de.png)
-> > 
+> > ![image](https://user-images.githubusercontent.com/82637549/123792883-159f3880-d91c-11eb-8b52-e89f0972c74b.png)
+
