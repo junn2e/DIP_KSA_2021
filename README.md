@@ -37,3 +37,9 @@
 > > > 
 > > ![image](https://user-images.githubusercontent.com/82637549/123792883-159f3880-d91c-11eb-8b52-e89f0972c74b.png)
 > > ![image](https://user-images.githubusercontent.com/82637549/123792357-7c702200-d91b-11eb-9903-2b27c9d4d9de.png)
+> > ## End-in-search
+> > > 일정한 양의 화소를 흰색이나 검정색으로 지정하여 히스토그램의 분포를 좀 더 균일하게 만든다
+> > > ![image](https://user-images.githubusercontent.com/82637549/123793610-e0dfb100-d91c-11eb-9b42-b5ab15630fe3.png)
+
+> > ![image](https://user-images.githubusercontent.com/82637549/123793508-bc83d480-d91c-11eb-9f60-8952e64874f6.png)
+
